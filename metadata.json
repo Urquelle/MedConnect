@@ -1,0 +1,8 @@
+{
+  "name": "MedConnect: Anonymous Second Opinion",
+  "description": "A secure platform where anonymous patients can submit medical complaints and imaging for review by verified doctors. Features include AI-assisted symptom reporting, doctor ratings, and appointment scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
